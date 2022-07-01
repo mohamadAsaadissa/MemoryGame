@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinnespelApp.Android", "MinnespelApp\MinnespelApp.Android\MinnespelApp.Android.csproj", "{A4B87857-375C-42C3-9E58-88540AED76B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinnespelApp", "MinnespelApp\MinnespelApp\MinnespelApp.csproj", "{B14274C8-2EA6-414C-8F89-ECF823D23E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4B87857-375C-42C3-9E58-88540AED76B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B87857-375C-42C3-9E58-88540AED76B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B87857-375C-42C3-9E58-88540AED76B3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A4B87857-375C-42C3-9E58-88540AED76B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B87857-375C-42C3-9E58-88540AED76B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B87857-375C-42C3-9E58-88540AED76B3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B14274C8-2EA6-414C-8F89-ECF823D23E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14274C8-2EA6-414C-8F89-ECF823D23E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14274C8-2EA6-414C-8F89-ECF823D23E56}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B14274C8-2EA6-414C-8F89-ECF823D23E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14274C8-2EA6-414C-8F89-ECF823D23E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14274C8-2EA6-414C-8F89-ECF823D23E56}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FBE2C8C-0AC9-40D8-A1CC-585EB536DAC7}
+	EndGlobalSection
+EndGlobal
