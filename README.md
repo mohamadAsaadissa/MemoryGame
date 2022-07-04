@@ -1,3 +1,5 @@
 # MemoryGame
-The game is e randomly dealt card that man  can increase or decrease number of cards  according to the settings.The game ends when all cards are open.
-It counts the number of attempts made by the person until all cards have been opened.  You can only click twice.The first click must be similar to the second card, otherwise the two cards will be closed. And the person tries again, and so on.
+Minnesspel: Antal kort delas ut slumpmässigt som kan ökas eller minskas antalet kort enligt inställningarna. Spelet slutar när alla kort är öppna. Räknar antalet försök en person har gjort tills alla kort är upplåsta. Du kan bara dubbelklicka på två olika kort. Det första klicket måste vara detsamma som det andra kortet vad gäller form eller värde, annars stängs de två korten. Och personen försöker igen, och så vidare.
+
+Visual studio .net c# -
+Mobilapplication Xamarin form
